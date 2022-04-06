@@ -1,6 +1,19 @@
+.medsos {
+  font-size: 30px;
+  margin: 10px;
+  color: #e2edff;
+}
+.medsos i {
+  color: #cacaca;
+  margin: 5px;
+}
 .jumbotron {
   padding-top: 6rem;
   background-color: #e2edff;
+}
+
+#about h2 {
+  padding-bottom: 35px;
 }
 
 #projects {
